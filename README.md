@@ -54,7 +54,7 @@ Home page for Recipe website, Created with Tailwind
 
 ### Continued development
 
-Build more projects with Tailwind CSS.
+• Learn JavaScript.
 
 ### Useful resources
 
