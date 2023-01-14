@@ -6,6 +6,7 @@ Home page for Recipe website, Created with Tailwind
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -18,9 +19,14 @@ Home page for Recipe website, Created with Tailwind
 
 ## Overview
 
+### Screenshot
+
+![](images/screenshot.png)
+
+
 ### Links
 
-- Live Site URL: [Here](https://jacbfrancis.github.io/Food-Ninja/)
+- Live Site URL: [Live site](https://jacbfrancis.github.io/Food-Ninja/)
 
 ## My process
 
