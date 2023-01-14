@@ -6,7 +6,6 @@ Home page for Recipe website, Created with Tailwind
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,16 +18,6 @@ Home page for Recipe website, Created with Tailwind
 
 ## Overview
 
-### Screenshot
-
-![](screenshot_1.png)
-
-
-
-![](screenshot_2.png)
-
-
-
 ### Links
 
 - Live Site URL: [Here](https://jacbfrancis.github.io/Food-Ninja/)
@@ -37,24 +26,17 @@ Home page for Recipe website, Created with Tailwind
 
 ### Built with
 
-- Semantic HTML5 markup
 - Tailwind CSS
-- Flexbox
-- Grid
-- Responsive web design
 
 
 ### What I learned
 
-- I learnt how to use Tailwind to style and Design web pages.
-
-- I learnt how to use grid to align and distribute space within a container.
-
+- I learnt how to use Tailwind utility classes to control the padding, margin, color, font, font-color etc.
 
 
 ### Continued development
 
-• Learn and build projects with JavaScript.
+• Learn JavaScript.
 
 ### Useful resources
 
@@ -66,6 +48,5 @@ Home page for Recipe website, Created with Tailwind
 
 ## Author
 
-- Github - [ Francis Jacob](https://github.com/Jacbfrancis)
 - Twitter - [@jacobxavier_](https://twitter.com/jacobxavier_?t=YdJHQngdQYJVbC7mWspqDg&s=08)
 
